@@ -1,2 +1,2 @@
 # GBMstates
-Scripts from the GBM cellular states paper 
+Scripts from the Garofano et al. "Pathway-based classification of glioblastoma uncovers a mitochondrial subtype with therapeutic vulnerabilities" Nature Cnacer 2020
