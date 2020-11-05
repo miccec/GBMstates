@@ -1315,7 +1315,7 @@ heatmap.3 <- function(x,
   invisible(retval)
 }
 
-###consensus clustering functions
+###consensus clustering functions (developed by S.M. Pagnotta)
 consensusClust <- function(ddata, G, epsilon, cpuCluster, runs = 500, bySample = TRUE, 
                            method = "monti", distMethod = "euclidean", clustMethod = "ward", 
                            saveAll = FALSE) {
